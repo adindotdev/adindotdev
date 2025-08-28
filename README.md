@@ -1,3 +1,3 @@
 ### Hi! I'm Adin 👨‍💻
 
-Go to [https://adin.dev](my website), I maintain that more than this.
+Go to [my website]("https://adin.dev") cuz I maintain that more than this.
